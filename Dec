@@ -1,0 +1,18 @@
+# Python Fundamentals & APIs
+
+## Topics Covered
+- APIs (Application Programming Interfaces)
+- Control Flow (if, elif, else, loops)
+- Logical Operators (and, or, not)
+- Randomization (random module)
+- Python Lists (operations and methods)
+
+## What I Practiced
+- Writing conditional statements
+- Using loops for repetition
+- Applying logical operators in decision making
+- Generating random values
+- Working with lists (append, remove, index, slicing)
+
+## Notes
+- APIs allow applications to communicate with each other
